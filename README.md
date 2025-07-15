@@ -7,7 +7,7 @@
         <p>
             本程序使用步骤：
             <ol>
-                <li>先拉去本仓库所有程序 --- git clone 仓库地址</li>
+                <li>先拉取本仓库所有程序 --- git clone 仓库地址</li>
                 <li>执行 npm i 下载所有依赖</li>
                 <li>如果你想将程序打包 --- 使用pnpm build 或者 npm run build</li>
                 <li>不过存在问题，浏览器会报cors错误😓😓😓</li>
